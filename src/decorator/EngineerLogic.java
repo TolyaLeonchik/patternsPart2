@@ -1,2 +1,5 @@
-package decorator;public class EngineerLogic {
+package decorator;
+
+public interface EngineerLogic {
+    void screwSomething();
 }

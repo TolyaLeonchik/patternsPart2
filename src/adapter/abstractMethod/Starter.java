@@ -1,4 +1,5 @@
-package adapter;
+package adapter.abstractMethod;
 
-public class Starter {
+public abstract class Starter {
+    abstract void startMachine();
 }

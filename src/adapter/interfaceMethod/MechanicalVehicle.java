@@ -1,8 +1,8 @@
-package adapter.abstractMethod;
+package adapter.interfaceMethod;
 
-public class MechanicalVehicle extends Starter{
+public class MechanicalVehicle implements Starter {
     @Override
-    void startMachine() {
+    public void startMachine() {
         System.out.println("logic for Mechanical Vehicle");
     }
 }

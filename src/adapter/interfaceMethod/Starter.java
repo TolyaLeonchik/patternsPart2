@@ -1,2 +1,5 @@
-package adapter.interfaceMethod;public class Starter {
+package adapter.interfaceMethod;
+
+public interface Starter {
+    void startMachine();
 }

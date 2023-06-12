@@ -1,4 +1,4 @@
-package adapter.abstractMethod;
+package adapter.interfaceMethod;
 
 public class Motorbike {
     void startEngineMotorbike(){
